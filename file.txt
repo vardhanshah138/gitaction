@@ -11,3 +11,4 @@ let's make some changes for rebase.
 try out for stash.
 some changes for Feature-123
 some more commit.
+some changes in rebased branch.
